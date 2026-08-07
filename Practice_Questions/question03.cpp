@@ -16,5 +16,6 @@ int main() {
       cout<<"\n|"<<a<<" * "<<b<<" "   ; 
      cout<<"=   "<<multiplication<<"            |" ; 
     cout<<"\n+---------------------------+\n"  ;
-     return 0 ;     
+     return 0 ;   
+       
 }

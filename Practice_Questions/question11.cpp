@@ -14,4 +14,5 @@ int main () {
     cout<<"Print the remainder of a and b : " <<endl ; 
     cout<<a%b<<endl ; 
     return 0  ; 
+    
 }

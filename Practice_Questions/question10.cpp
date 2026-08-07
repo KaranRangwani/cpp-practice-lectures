@@ -6,6 +6,5 @@ int main() {
     cout<< a%b << endl ;
     cout << a/b << endl ;
     // division pe agar int ha toh vo decimal part kodrop kardega !!!
-    
     return 0 ; 
 }
