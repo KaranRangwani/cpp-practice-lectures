@@ -45,7 +45,9 @@ int main () {
     cout<<endl ; 
     //Logical ! (not) operators
     cout<<"The operations of logical ! operatoe "<<endl ; 
-    cout<<"The value of logical ! operator is "<<!(a==b)<<endl ; 
+    cout<<"The value of logical ! operator 1 is  "<<!(a==b)<<endl ; 
+    cout<<"The value of logical ! operator 2 is "<<!(a<b)<<endl ; 
+
     
     
 
